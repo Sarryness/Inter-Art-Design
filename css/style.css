@@ -1280,7 +1280,7 @@ html .list-inline-md > * {
 
 @media (min-width: 992px) {
 	html .list-inline-md {
-		margin-left: -22px;
+		margin-left: -70px;
 		margin-right: -22px;
 	}
 	html .list-inline-md > * {
